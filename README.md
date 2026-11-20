@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# cockroachdb-lab
+
+<sub>Run a single-node CockroachDB cluster in Docker, explore distributed SQL, and inspect ranges and execution plans.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | cockroachdb-lab |
+| Primary language | Mixed / documentation |
+| Topics | cockroachdb, database, database-labs, devarent, distributed-sql, docker, lab, postgresql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+cockroachdb-lab is a hands-on repository focused on: Run a single-node CockroachDB cluster in Docker, explore distributed SQL, and inspect ranges and execution plans.. Primary language: Mixed / documentation. Topics: cockroachdb, database, database-labs, devarent, distributed-sql, docker, lab, postgresql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
